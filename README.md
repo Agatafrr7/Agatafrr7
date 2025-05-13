@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Estudante de Engenharia de Software no 4º semestre, com foco em desenvolvimento full-stack. Tenho experiência prática em tecnologias front-end (HTML, CSS e JavaScript) e back-end (PHP, Java e C++), além de projetos pessoais que demonstram minha capacidade de construir soluções funcionais e bem estruturadas. Atualmente, estou criando um portfólio no GitHub para destacar minhas habilidades e projetos. Sou apaixonado por aprender e resolver problemas, com o objetivo de crescer como Desenvolvedor Júnior e contribuir para equipes inovadoras.
+Estudante de Engenharia de Software no 5º periodo, com foco em desenvolvimento full-stack. Tenho experiência prática em tecnologias front-end (HTML, CSS e JavaScript) e back-end (PHP, Java e C++), além de projetos pessoais que demonstram minha capacidade de construir soluções funcionais e bem estruturadas. Atualmente, estou criando um portfólio no GitHub para destacar minhas habilidades e projetos. Sou apaixonado por aprender e resolver problemas, com o objetivo de crescer como Desenvolvedor Júnior e contribuir para equipes inovadoras.
 
 
 ---
